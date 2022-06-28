@@ -8,7 +8,7 @@
 
 Assignment for the UW Coding Bootcamp; due 06/27/22. The objective was to make a password generator, all parameters seem to be met. As frustrated as I got with this assignment this was by far the most satisfying to finish.
 
-Repository: 
+Repository: https://github.com/AdmiralCrunchy/PASSWORD_GEN_VT 
 
 url: https://admiralcrunchy.github.io/PASSWORD_GEN_VT/
 
